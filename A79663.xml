@@ -1,0 +1,372 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A forme of common-prayer, to be used upon the solemne fast, appoynted by His Majesties proclamation upon the fifth of February, being Wednesday. For a blessing on the treaty now begunne, that the end of it may be a happy peace to the King and to all his people. Set forth by His Majesties speciall command to be used in all churches and chappels.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1645</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79663</idno>
+            <idno type="STC">Wing C4112</idno>
+            <idno type="STC">Thomason E27_4</idno>
+            <idno type="STC">ESTC R11277</idno>
+            <idno type="EEBO-CITATION">99858975</idno>
+            <idno type="PROQUEST">99858975</idno>
+            <idno type="VID">111036</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79663)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111036)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 5:E27[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A forme of common-prayer, to be used upon the solemne fast, appoynted by His Majesties proclamation upon the fifth of February, being Wednesday. For a blessing on the treaty now begunne, that the end of it may be a happy peace to the King and to all his people. Set forth by His Majesties speciall command to be used in all churches and chappels.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Leonard Lichfield, printer to the Vniversity,</publisher>
+                  <pubPlace>Oxford :</pubPlace>
+                  <date>M.DC.XLIV. [i.e. 1645]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 3d".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Prayer-books and devotions --  English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-12</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111036:1"/>
+            <pb facs="tcp:111036:1" rendition="simple:additions"/>
+            <p>A FORME OF COMMON-PRAYER, To be uſed upon the ſo<g ref="char:EOLhyphen"/>lemne Faſt, appoynted by His <hi>Majeſties</hi> Proclamation upon the Fifth of <hi>February,</hi> being <hi>Wedneſday.</hi>
+            </p>
+            <p>For a Bleſsing on the TREATY now begunne, that the end of it may be a happy PEACE to the KING and to all his <hi>People.</hi>
+            </p>
+            <p>Set forth by His MAjESTIES ſpe<g ref="char:EOLhyphen"/>ciall Command to be uſed in all Churches and Chappels.</p>
+            <p>OXFORD, Printed by LEONARD LICHFIELD, Printer to the <hi>
+                  <g ref="char:V">Ʋ</g>niverſity.</hi>
+            </p>
+            <p>M.DC.XLIV.</p>
+         </div>
+         <div type="royal_blazon">
+            <pb facs="tcp:111036:2"/>
+            <p>
+               <figure>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <q>DIEV ET MON DROIT</q>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="liturgy">
+            <pb n="3" facs="tcp:111036:2"/>
+            <head>THE ORDER FOR MORNING PRAYER.</head>
+            <sp>
+               <stage>Firſt the Miniſter ſhall ſay.</stage>
+               <p>CORRECT us (O Lord) and yet in thy judgement, not in thy fury, leaſt we ſhould be conſumed, and brought to nothing.</p>
+            </sp>
+            <sp>
+               <stage>Then ſhall follow the Exhortation.</stage>
+               <p>
+                  <seg rend="decorInit">D</seg>Early beloved Brethren, the Scripture moveth us in ſundry places, to ac<g ref="char:EOLhyphen"/>knowledge &amp; confeſſe our manifold ſinnes and wickedneſſe, and that we ſhould not diſſemble nor cloak them before the face of Almighty God our heavenly Father, but con<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eſſe them with an humble, lowly, penitent, and obedient heart, to the end that we may obtain
+<pb n="4" facs="tcp:111036:3"/>forgiveneſſe of the ſame, by his infinite goodneſſe and mercy. And although we ought at all times humbly to acknowledge our ſins before God: yet ought we moſt chiefly ſo to doe, when at ſuch a time and occaſion as this is, we aſſemble, and meet together, to caſt our ſelves downe at the throne of his heavenly Grace, and to powre out our humble ſupplications, for the Averting of his heavy Judgements now upon us, for the ceaſing of this preſent bloudy and unnaturall Warre, and reſtoring a happy <hi>Peace</hi> in this Kingdom. Where<g ref="char:EOLhyphen"/>fore I pray and beſeech you, as many as be here preſent, to accompany me with a pure heart and humble voyce, unto the Throne of the heavenly grace, ſaying after me.</p>
+            </sp>
+            <sp>
+               <stage>The Confeſsion to be ſaid of the whole Congregation, Kneeling.</stage>
+               <p>ALmighty and moſt mercifull Father, We have erred &amp; ſtrayed from thy wayes like loſt ſheep, We have followed too much the devi<g ref="char:EOLhyphen"/>ces and deſires of our own hearts, We have offen<g ref="char:EOLhyphen"/>ded againſt thy holy lawes, We have left undone thoſe things which we ought to have done, And We have done thoſe things which We ought not to have done, And there is no health in us: But thou, O Lord, have mercy upon us miſerable of<g ref="char:EOLhyphen"/>fenders
+<pb n="5" facs="tcp:111036:3"/>Spare thou them, O God, which confeſſe their faults, Reſtore thou them that be penitent, according to thy promiſes declared unto man<g ref="char:EOLhyphen"/>kind in Chriſt Jeſus our Lord; And grant, O moſt mercifull Father, for his ſake, that we may here<g ref="char:EOLhyphen"/>after live a Godly, Righteous, and a ſober life, to the glory of thy holy Name. AMEN.</p>
+            </sp>
+            <sp>
+               <stage>The Abſolution to be pronounced by the Prieſt alone.</stage>
+               <p>ALmighty God, the Father of our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, which deſireth not the death of a ſinner, but rather that he may turne from his wickedneſſe and live, and hath given power and commandement to his Miniſters, to declare and pronounce to his people, being penitent, the abſo<g ref="char:EOLhyphen"/>lution and remiſsion of their ſinnes: he pardon<g ref="char:EOLhyphen"/>eth and abſolveth all them which truly repent, and unfainedly beleeve his holy Goſpell. Where<g ref="char:EOLhyphen"/>fore we beſeech him to grant us true repentance and his holy Spirit, that thoſe things may pleaſe him which we doe at this preſent, and that the reſt of our life hereafter may be pure and holy, ſo that at the laſt we may come to his eternall joy, through Jeſus Chriſt our Lord. AMEN.</p>
+            </sp>
+            <pb n="6" facs="tcp:111036:4"/>
+            <sp>
+               <stage>The Prieſt ſhall begin, and ſay.</stage>
+               <p>
+                  <hi>O<g ref="char:V">Ʋ</g>r Father which art in Heaven Hallowed be thy name. Thy Kingdom come. Thy will be done in earth as it is in Heaven. Give us this day our dayly bread. And forgive us our treſpaſſes, as we fo<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>give them that treſpaſſe againſt us. And lead us not into temptation but, deliver us from evill: for thine is the Kingdome, the power and the glory, for ever and ever.</hi> AMEN.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p>O Lord open thou our lips.</p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>And our mouth ſhall ſhew forth thy praiſe.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p>O God make ſpeed to ſave us.</p>
+            </sp>
+            <sp>
+               <speaker>Anſwer.</speaker>
+               <p>O Lord make haſt to help us.</p>
+            </sp>
+            <sp>
+               <speaker>Prieſt.</speaker>
+               <p>Glory be to the Father, and to the Sonne, and to the Holy Ghoſt.</p>
+               <p>As it was in the beginning, is now, and ever ſhall be, world without end. <hi>Amen.</hi>
+               </p>
+            </sp>
+            <closer>Praiſe yee the Lord.</closer>
+         </div>
+         <div type="text">
+            <pb n="7" facs="tcp:111036:4"/>
+            <head>In ſ<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ead of the <hi>Venite Exultemus,</hi> ſhall be us'd this Pſalme compoſed out of ſeverall paſsages in the Booke of Pſalmes.</head>
+            <p>UNto thee will I cry, O Lord my ſtrength:<note place="margin">Pſal. 28.1.</note> thinke no ſcorne of me, leaſt if thou make as though thou heareſt not, I become like them that goe downe into the Pit.</p>
+            <p>
+               <hi>Heare the voyce of my humble Petitions,</hi>
+               <note place="margin">2.</note> 
+               <hi>when I cry unto thee: when I hold up my hands towards the Mercy ſeat of thy holy Temple.</hi>
+            </p>
+            <p>O God, wherefore art thou abſent from us ſo long:<note place="margin">Pſal. 74 v. 1.</note> why is thy wrath ſo hot againſt the ſheep of thy paſture?</p>
+            <p>
+               <hi>Lord, how long wilt thou be angry:</hi>
+               <note place="margin">Pſal. 79.5.</note> 
+               <hi>ſhall thy jealouſy burn like ſire for ever?</hi>
+            </p>
+            <p>Hath God forgotten to be gratious:<note place="margin">Pſal. 77.9.</note> or will he ſhut up his loving kindneſſe in diſpleaſure?</p>
+            <p>
+               <hi>Lord where are thy old loving kindneſſes:</hi>
+               <note place="margin">Pſal. 89.48.</note> 
+               <hi>which thou ſwa<g ref="char:EOLhyphen"/>reſt unto David in thy truth?</hi>
+            </p>
+            <p>O think upon thy Congregation:<note place="margin">Pſal. 74.2.</note> whom thou haſt pur<g ref="char:EOLhyphen"/>chaſed, and redeemed of old.</p>
+            <p>
+               <hi>Thinke upon the tribe of thine Inheritance:</hi>
+               <note place="margin">3.</note> 
+               <hi>and mount Sion wherein thou hast dwelt.</hi>
+            </p>
+            <p>Thou ſhalt ariſe and have mercy upon Sion:<note place="margin">Pſal. 102.13.</note> for it is time that thou have mercy upon her, yea, the time is come.</p>
+            <p>
+               <hi>And why? thy ſervants thinke upon her ſtones:</hi>
+               <note place="margin">14.</note> 
+               <hi>and it pittieth them to ſee her in the Dust.</hi>
+            </p>
+            <p>Be thou my Judge, O Lord,<note place="margin">Pſal. 26.1.</note> for I have walked inno<g ref="char:EOLhyphen"/>cently: my truſt hath been alſo in the Lord, therefore ſh<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll I not fall.</p>
+            <p>
+               <hi>Examine me, O Lord, and prove me: try out my reines,</hi>
+               <note place="margin">2.</note> 
+               <hi>and my Heart.</hi>
+            </p>
+            <pb n="8" facs="tcp:111036:5"/>
+            <p>Let my ſentence come forth from thy preſence:<note place="margin">Pſal. 17.2.</note> and let thine eyes look upon the thing that is equall.</p>
+            <p>
+               <hi>Shew thy marvailous loving kindneſse,</hi>
+               <note place="margin">7.</note> 
+               <hi>thou that art the Saviour of them which put their trust in thee: from ſuch as reſist thy right hand.</hi>
+            </p>
+            <p>Call to remembrance,<note place="margin">Pſal. 25.5.</note> O Lord, thy tender mercies: and thy loving kindneſſe which hath been ever of old.</p>
+            <p>
+               <hi>For thy Names ſake,</hi>
+               <note place="margin">1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</note> 
+               <hi>O Lord, be mercifull unto my ſinne: for it is great.</hi>
+            </p>
+            <p>The ſorrowes of my Heart are enlarged:<note place="margin">16.</note> O bring thou me out of my troubles.</p>
+            <p>
+               <hi>Look upon mine adverſity and miſery:</hi>
+               <note place="margin">17.</note> 
+               <hi>and forgive me all my ſinne.</hi>
+            </p>
+            <p>Thou ſhalt ſhew us wonderfull things in thy Righte<g ref="char:EOLhyphen"/>ouſneſſe,<note place="margin">Pſal. 65.5.</note> O God of our ſalvation: thou that art the Hope of all the ends of the Earth, and of them that remaine in the broad Sea.</p>
+            <p>
+               <hi>Which ſtilleth the raging of the Sea:</hi>
+               <note place="margin">7.</note> 
+               <hi>and the noiſe of his waves, and the madneſse of his People.</hi>
+            </p>
+            <p>Remember me,<note place="margin">Pſal. 106.4.</note> O Lord, according to the favour that thou beareſt unto thy people: O viſit me with thy ſal<g ref="char:EOLhyphen"/>vation.</p>
+            <p>
+               <hi>That I may ſee the felicity of thy choſen:</hi>
+               <note place="margin">5.</note> 
+               <hi>and rejoyce in the gladnes of thy People, &amp; give thanks with thine Inheritance.</hi>
+            </p>
+            <p>O let the ſorrowfull ſighing of the Priſoners come be<g ref="char:EOLhyphen"/>fore thee:<note place="margin">Pſal. 79.12.</note> according to the greatneſſe of thy power pre<g ref="char:EOLhyphen"/>ſerve thou thoſe that are appointed to dye.</p>
+            <p>
+               <hi>Comfort us again now after the time that thou haſt plagued us:</hi>
+               <note place="margin">Pſal. 90.15.</note> 
+               <hi>and for the yeares wherein we have ſuffered adverſity.</hi>
+            </p>
+            <p>The fierceneſſe of man ſhall turne to thy Praiſe:<note place="margin">Pſal. 76.10.</note> and the fierceneſſe of them ſhalt thou refraine.</p>
+            <p>
+               <hi>For God will ſave Sion,</hi>
+               <note place="margin">Pſal. 69.36.</note> 
+               <hi>and build the Cities of Juda: that men may dwell there, and have it in poſseſsion.</hi>
+            </p>
+            <pb n="9" facs="tcp:111036:5"/>
+            <p>O tarry thou the Lords leaſure:<note place="margin">Pſal. 27.16.</note> be ſtrong and he ſhall comfort thine heart, and put thou thy truſt in the Lord.</p>
+            <p>
+               <hi>And the glorious Majestie of the Lord our God be upon us:</hi>
+               <note place="margin">Pſal. 90.17.</note> 
+               <hi>Proſper thou the worke of our Hands upon us, O proſper thou our handy worke.</hi>
+            </p>
+            <p>Glory be to the Father, and to the Sonne, and to the holy Ghoſt:</p>
+            <p>As it was in the beginning, is now and ever ſhall be, world without end. <hi>Amen.</hi>
+            </p>
+            <p>
+               <table>
+                  <head>Pſalmes for Morning and Evening Prayer.</head>
+                  <row>
+                     <cell role="label" cols="2">For Morning,</cell>
+                     <cell role="label" cols="2">For the Evening.</cell>
+                  </row>
+                  <row>
+                     <cell rows="6">Pſalmes</cell>
+                     <cell>42</cell>
+                     <cell rows="6">Pſalmes</cell>
+                     <cell>77.</cell>
+                  </row>
+                  <row>
+                     <cell>46.</cell>
+                     <cell>80.</cell>
+                  </row>
+                  <row>
+                     <cell>61.</cell>
+                     <cell>85.</cell>
+                  </row>
+                  <row>
+                     <cell>80.</cell>
+                     <cell>126.</cell>
+                  </row>
+                  <row>
+                     <cell>122.</cell>
+                     <cell>132.</cell>
+                  </row>
+                  <row>
+                     <cell> </cell>
+                     <cell>133.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>The Firſt Leſſon for Morning Prayer, <hi>Iſay</hi> 51. from the 9. verſe to the end of the Chapter.</p>
+            <p>
+               <hi>Te Deum Laudamus.</hi>
+            </p>
+            <p>For the Second Leſſon, <hi>Rom.</hi> 12. from the beginning of the 9. verſe to the end of the Chapter.</p>
+            <p>
+               <hi>Benedictus.</hi>
+            </p>
+            <pb n="10" facs="tcp:111036:6"/>
+            <p>The Firſt Leſſon for Evening Prayer, <hi>Iſa.</hi> 54.</p>
+            <p>
+               <hi>Magnificat. Luke 1.</hi>
+            </p>
+            <p>The Second Leſſon 1. <hi>Epist. Iohn</hi> c. 4.</p>
+            <p>
+               <hi>Nunc dimittis. Luk. 2.29.</hi>
+            </p>
+            <p>The reſt to go on as it is in the former Faſt-Book, with the addition of ſome Prayers.</p>
+            <p>The Epiſtle <hi>Heb.</hi> 12. from the middle of the fift verſe, <hi>My Sonne,</hi> &amp;c. to the end of the 15. verſe.</p>
+            <p>The Goſpell <hi>Matth<g ref="char:punc">▪</g>
+               </hi> 5. from the firſt verſe to the end of the 12. verſe.</p>
+         </div>
+         <div type="prayer">
+            <head>A Prayer drawne by His <hi>MAjESTIES</hi> ſpeciall Direction and Dictates.</head>
+            <p>O Moſt mercifull Father, Lord God of Peace and Truth, we a People ſorely af<g ref="char:EOLhyphen"/>flicted by the Scourge of an unnaturall Warre, doe here earneſtly beſeech Thee, to command a Bleſsing from Heaven upon this preſent Treaty, begunne for the eſtabliſhment of an happy Peace. Soften the moſt obdurate Hearts with a
+<pb n="11" facs="tcp:111036:6"/>true Chriſtian deſire of ſaving thoſe mens blood, for whom Chriſt himſelfe hath ſhed His. Or if the guilt of our great ſinnes cauſe this Treaty to breake off in vaine, Lord let the Truth clearly ap<g ref="char:EOLhyphen"/>peare, who thoſe men are, which under pretence of the Publick good doe purſue their own private ends; that this People may be no longer ſo blindely miſerable, as not to ſee, at leaſt in this their Day, the things that belong unto their Peace. Grant this gracious God, for his ſake who is our Peace it ſelfe, even Jeſus Chriſt our Lord. AMEN.</p>
+         </div>
+         <div type="prayer">
+            <head>A Prayer for Peace.</head>
+            <p>ALmighty God, terrible in thy <hi>Judgements,</hi> but more wonderfull in thy <hi>Mercies,</hi> who turneſt man to <hi>Deſtruction,</hi> and againe, thou ſaiſt, <hi>Come</hi> againe ye children of Men; we miſerable ſinners proſtrate this day before thee; humbly confeſſe with <hi>Horror</hi> in our <hi>Hearts,</hi> and <hi>Confuſion</hi> in our <hi>Faces,</hi> that every one of us hath, more or leſſe, contributed to that vaſt heap of crying ſins which hath now in ſo high a meaſure drawne down thy vengeance on us, that we have abuſed thy <hi>Patience</hi> ſo long, till we have at laſt turn'd it into <hi>Fury,</hi> compelling thee, by our often provoca<g ref="char:EOLhyphen"/>tions
+<pb n="12" facs="tcp:111036:7"/>to viſit us in blood, to make us teare out our owne bowels, and by a ſtrange unnaturall Warre, raiſed we know not why, (thy <hi>Juſtice</hi> and our <hi>Sinnes</hi> excepted) to become executioners of our ſelves, and ſo to ſinne afreſh in the very puniſh<g ref="char:EOLhyphen"/>ments of ſinne. But alas! what profit is there in our <hi>Blood?</hi> or what <hi>Glory</hi> can come to thee by our <hi>Ruine?</hi> Let it ſuffice, O God, that thou haſt thus farr rebuked us in thine <hi>Anger;</hi> but <hi>conſume</hi> us not utterly, for we are all thy People. Say to the de<g ref="char:EOLhyphen"/>ſtroying <hi>Sword, It is enough,</hi> and let it be no longer <hi>drunk</hi> with the blood of thine <hi>Inheritance:</hi> But look down upon our unfained <hi>Humiliation,</hi> heare the <hi>Prayer</hi> which in the bitterneſſe of our Soules we powr out this day before thee, accept of our <hi>Repentance,</hi> and where it is defective, let thy <hi>Holy Spirit</hi> make it up with <hi>Groanes</hi> that cannot be ex<g ref="char:EOLhyphen"/>preſſed. Look upon thy <hi>Moſes</hi> who ſtandeth in the gap, beſeeching thee to turn thine anger from thy People; remember what he hath <hi>ſuffer'd,</hi> and the <hi>heavy things</hi> that thou haſt ſhewn him; and in the day, when thou makeſt <hi>Inquiſition for Bloud,</hi> forget not his <hi>deſires of Peace,</hi> the <hi>endeavours</hi> which he hath uſed, and the <hi>Prayers</hi> which he hath made to Thee for it. Return all this, O Lord, with <hi>comfort</hi> into his <hi>Boſome.</hi> And ſince thou haſt
+<pb n="13" facs="tcp:111036:7"/>already wrought ſo much for him, as to bring theſe unhappy entangled differences to a <hi>Treaty,</hi> take not off thine <hi>Hand,</hi> till thou haſt <hi>untyed</hi> eve<g ref="char:EOLhyphen"/>ry <hi>knot,</hi> and <hi>cleared</hi> every <hi>difficulty.</hi> Send <hi>thy Spirit</hi> into their Hearts who are entruſted with this <hi>great worke,</hi> give them <hi>Bowells of Compaſsion</hi> to<g ref="char:EOLhyphen"/>ward their <hi>bleeding, and expiring Country,</hi> ſtrike a <hi>Senſe</hi> into them of the Bloud <hi>already</hi> ſhed, and the <hi>Deſolation</hi> to come, which threatneth all if they prevent it not. But above all, let <hi>thy Feare</hi> run through all their <hi>conſultations,</hi> that remembring the <hi>ſad account,</hi> which in the laſt <hi>great day</hi> will be required of them, they may lay aſide <hi>every Sin,</hi> and <hi>every Intereſt</hi> that may divert them from <hi>the wayes of Peace,</hi> and by the guidance of <hi>thy Wiſe<g ref="char:EOLhyphen"/>dome</hi> (for in this all humane wiſedome failes) find out thoſe <hi>bleſſed Expedients</hi> as may reſtore the voyce of Joy and Peace into our Dwellings, in ſuch a way, as may be moſt to the <hi>Glory</hi> of thy <hi>Great Name,</hi> the Settlement of the <hi>true Religion</hi> ſo long profeſſed among us, the <hi>Honour,</hi> and <hi>Safe<g ref="char:EOLhyphen"/>ty</hi> of the <hi>King's Sacred Perſon,</hi> and the <hi>Good</hi> of <hi>all H<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s People.</hi> Heare theſe our Prayers, and perfect this great work, through the mediation of thine owne dear Son Jeſus Chriſt our Lord. <hi>Amen.</hi>
+            </p>
+         </div>
+         <div type="prayer">
+            <pb n="14" facs="tcp:111036:8"/>
+            <head>A Prayer.</head>
+            <p>O Moſt juſt and powerfull Lord God, to whom vengeance belongeth, we cannot but acknowledge that the manifold miſe<g ref="char:EOLhyphen"/>ries which have befallen us are the due reward of our deeds, and that we have deſerved that the things which belong to our peace ſhould ſtill be hid from our eyes. For when of thy owne free mercy thou wert pleaſed to grant us a long time of plenty and proſperity, more then thou gaveſt to any of the Nations that are about us, we be<g ref="char:EOLhyphen"/>came weary of our happineſſe, and by our in<g ref="char:EOLhyphen"/>gratitude pulled upon us thoſe judgments which now threaten deſolation to this late flouriſhing Kingdome. And ſince the time of our affliction thou haſt given us ſpace to repent, and we repen<g ref="char:EOLhyphen"/>ted not; Iniquity hath ſtill more and more a<g ref="char:EOLhyphen"/>bounded. As heretofore thy mercies did not al<g ref="char:EOLhyphen"/>lure us, ſo now thy judgments have not hum<g ref="char:EOLhyphen"/>bled us to a ſerious conſideration of our miſde<g ref="char:EOLhyphen"/>ſervings. Now, O Lord, we finde our ſelves in<g ref="char:EOLhyphen"/>tangled and wearied by our owne counſels; The troubles of our heart are inlarged; Our iniqui<g ref="char:EOLhyphen"/>ties and the puniſhments which attend upon them, are a burden too heavy for us to bear. And
+<pb n="15" facs="tcp:111036:8"/>therefore in the anguiſh and bitterneſſe of our ſoules we returne unto thee, humbly beſeeching thee, in whom alone is our helpe, to have re<g ref="char:EOLhyphen"/>ſpect unto the prayers of thy ſervants. O ſhut not up thy loving kindneſſe in diſpleaſure, let not thine anger burne againſt the ſheepe of thy pa<g ref="char:EOLhyphen"/>ſture: But binde up the breach of this people. Let the ſighing of the priſoners come before thee, Be<g ref="char:EOLhyphen"/>hold the teares of the diſtreſſed Orphans and wi<g ref="char:EOLhyphen"/>dowes, and of all ſuch as are oppreſſed and have no comforter. How long, O Lord, holy and true, doeſt thou forbeare to command delive<g ref="char:EOLhyphen"/>rances? Remember thy tender mercies which have beene ever of old, and ſave us as thou haſt done heretofore. Remember thy promiſe of de<g ref="char:EOLhyphen"/>liverance to thoſe who call upon thee in the day of trouble. And when the bloud that hath beene ſhed by oppreſſion calls aloud for vengeance, O then hearken unto the voice of thy Sonnes bloud which ſpeakes better things; behold the Lambe of God, who was wounded for our tranſgreſſions, and bruiſed for our iniquities. And to this end regard the ſincerity of thine Anoin<g ref="char:EOLhyphen"/>ted, maintaine thy owne cauſe, and preſerve un<g ref="char:EOLhyphen"/>to him that power which thou haſt given him: binde his ſoule in the bundle of life, let mercy
+<pb n="16" facs="tcp:111036:9"/>and truth preſerve him, and let his Throne be e<g ref="char:EOLhyphen"/>ſtabliſhed for ever before thee. Bleſſe them that are peaceable and faithfull in the land: And as for thoſe that have riſen up againſt him, we be<g ref="char:EOLhyphen"/>ſeech thee melt &amp; mollify their hearts to the en<g ref="char:EOLhyphen"/>tertainment of compaſſion and love; reclaime them to obedience, lay not their ſinne to their charge, but guide their feet into the way of peace. Give to thoſe that have done wrong the grace to repent, and to thoſe that have ſuffered wrong, minds ready to forgive. And if any ſhall be a<g ref="char:EOLhyphen"/>verſe from peace, O thou that art the wonderfull Counſellour, turne their wiſedome into fooliſh<g ref="char:EOLhyphen"/>neſſe, confound their practices, and let their miſ<g ref="char:EOLhyphen"/>cheife returne upon their owne heads. And when thou haſt vouchſafed to give us that tran<g ref="char:EOLhyphen"/>quillity which we begge at thy hands, give us grace to embrace it with all thankfulneſſe, to o<g ref="char:EOLhyphen"/>bey our Governours, to live at unity among our ſelves, evermore bleſſing thy glorious name which is exalted above all bleſſing and praiſe, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
